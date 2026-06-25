@@ -1,0 +1,26 @@
+{
+  "labels":[
+    "Access_Issue",
+    "Server_Down",
+    "Order_Tracking",
+    "Technical",
+    "E-Commerce",
+    "Appointment_Booking",
+    "Healthcare",
+    "Refund",
+    "Billing_Inquiry",
+    "Fraud_Alert",
+    "Invoice_Dispute",
+    "Double_Charge",
+    "General",
+    "Loan_Inquiry",
+    "Cancelled_Order",
+    "Billing",
+    "Banking",
+    "KYC_Verification",
+    "Feedback",
+    "Account",
+    "Pharmacy_Refill"
+  ],
+  "threshold":0.5
+}
